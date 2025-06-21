@@ -1,0 +1,55 @@
+<html>
+    <head>
+        <title>"Конди́терська корпора́ція «Роше́н»"</title>
+        <link rel="stylesheet" href="style1.css">
+    </head>
+    <body>
+         <header>
+            <img src="https://lpnu.ua/sites/default/files/project/480/roshen-logo.png">
+        </header>
+        <nav>
+            <a class="nav-link" href="index.html">Каталог</a>
+            <a class="nav-link" href="index1.html">Про фірму</a>
+            <a class="nav-link" href="#contact">Контакти</a>
+
+        </nav>
+        <main>
+            <h1>"Конди́терська корпора́ція «Роше́н»"</h1>
+            <section class="info">
+                <article>
+                    <h2>підрозділ кондитерської корпорації</h2>
+                    <h3>Конди́терська корпора́ція «Роше́н» — один з найбільших виробників кондитерських виробів в Україні та Східній Європі, входить у тридцятку найбільших виробників кондитерських виробів світу</h3>
+                    <img src="https://www.volynnews.com/files/news/2020/02-25/287060/23_main.jpg" width="400px" height="300px"/>
+                    <br>
+                    <a class="article-but" href="">До складу корпорації входять:</a>
+                </article>
+                <article>
+                    <h2>ЗАТ «Київська кондитерська фабрика „Рошен“» (Київ)
+ПрАТ «Вінницька кондитерська фабрика» (Вінниця)
+ПрАт «Кременчуцька кондитерська фабрика» (Кременчук)
+Клайпедська кондитерська фабрика (Клайпеда, Литва)
+Кондитерська фабрика «Bonbonetti» (Будапешт, Угорщина),
+ТОВ "БІСКВІТНИЙ КОМПЛЕКС «РОШЕН» (Бориспіль, Україна)</h2>
+                    <p>Екскурсії</p>
+                </article>
+                <article>
+                    <h2>«Шоколадна фабрика ROSHEN»[21] запрошує всіх охочих завітати на екскурсію до Київської кондитерської фабрики та здійснити мандрівку до місця, де народжується шоколад.</h2>
+                    <img src="https://www.ua-region.com.ua/firms/photo/382125/5665.jpg" width="350px" height="200px"/>
+                    
+                </article>
+                <article>
+                    <h2>Рошен виробляє близько 320 видів кондитерських виробів цукерок, шоколаду, карамелі, печива, вафель, мармеладу і тортів.
+З великого асортименту продукції корпорації найвідомішими і найпопулярнішими є торт «Київський», цукерки «Київ вечірній», «Червоний мак», «Шалена бджілка», «Корівка», «Шоколапки» та інші.</h2>
+                    <img src="https://upload.wikimedia.org/wikipedia/commons/f/f0/Chocolate_%28Roshen%29.jpg" width="350px" height="300px"/>
+                    <p>Найсмачніший шоколад тільки у нас</p>
+                    <a class="article-but" href="">Детальніше</a>
+                </article>
+            </section>
+            <img src="https://itinery.com.ua/img/folder_2/3461/28794_800x600_p18fsl9e1ljpk1r3v1oum92s1ut14.jpg" width="650px" height="270px"/>
+        </main>
+        <footer>
+            <a href="https://faine-misto.vinnica.ua/wp-content/uploads/2025/01/68ba1ced4fea83b7be0a44dfa7f1fe72.jpg" width="80px" height="80px"></a>
+            <p><b>Вул.Гліба Успенського 8<br/>місто Віниця</b></p> 
+        </footer>
+    </body>
+</html>
